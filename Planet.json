@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Earth",
+    "O2": "true",
+    "Water": "true",
+    "size": "20000km"
+  },
+
+  {
+    "name": "Sun",
+    "O2": "false",
+    "Water": "false",
+    "size": "80000km"
+  },
+
+  {
+    "name": "Moon",
+    "O2": "false",
+    "Water": "false",
+    "size": "5000km"
+  }
+]
